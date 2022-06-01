@@ -3,14 +3,14 @@ Repozytorium zawiera aplikację, wykorzystującą platformę Firebase, która po
 
 ## Spis treści:
 * [Technologie](#technologie)
-* [Opis gry](#opis-gry)
+* [Opis działania](#opis-działania)
 * [Przykładowe działanie programu](#przykładowe-działanie-programu)
 * [Status projektu](#status-projektu)
 
 ## Technologie
 Program został napisany w języku Java przy wykorzystaniu Firebase oraz Android Studio.
 
-## Opis gry
+## Opis działania
 Plik zawiera kod do aplikacji Notatnik, która umożliwia tworzenie notatek.
 
 Na początku użytkownik tworzy nowe konto, a następnie jest proszony o zweryfikowanie emaila i zalogowanie się do aplikacji.
